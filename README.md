@@ -37,6 +37,35 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Who Should Read This?
 
 - Aspiring and new Leaderships
